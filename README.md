@@ -3,8 +3,6 @@ Hello, I'm Matei!
 
 I am a last year Computer Science student at the University of Bucharest, Faculty of Mathematics and Informatics. I've studied in Germany at the University of Tübingen thanks to an Erasmus Exchange Programme and came back with a broader view of the Industry.
 
-* ✉  You can contact me at [matei.sescu16@gmail.com](mailto:matei.sescu16@gmail.com )
-
 ### I have experience in:
 
 <p align="left">
@@ -20,7 +18,5 @@ I am a last year Computer Science student at the University of Bucharest, Facult
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> 
     </a>
-    <a href="mailto:matei.sescu16@gmail.com">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Send email to matei.sescu16@gmail.com">
-    </a>
+    OR send me a ✉ mail at [matei.sescu16@gmail.com](mailto:matei.sescu16@gmail.com )
 </p>
