@@ -18,5 +18,5 @@ I am a last year Computer Science student at the University of Bucharest, Facult
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> 
     </a>
-    OR send me a ✉ mail at [matei.sescu16@gmail.com](mailto:matei.sescu16@gmail.com )
+    OR send me a ✉ mail at [matei.sescu16@gmail.com](mailto:matei.sescu16@gmail.com)
 </p>
