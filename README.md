@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Creating bugs since 2019<br>📚 I'm currently learning Java, Typescript and Robotics<br>🎯 Goals: Getting a job in the industry and traveling to new countries<br>🎲 Fun fact: Curiosity healed the cat</p>
+<p align="center">✨ Creating bugs since 2019<br>📚 I'm currently learning Java, Typescript and Robotics<br>🎯 Goals: Getting a job in the industry and traveling to new countries<br>💬 Can be contacted on <a href="https://www.linkedin.com/in/se-ma/">LinkedIn</a> or on <a href="mailto:matei.sescu16@gmail.com">my mail</a><br>🎲 Fun fact: Curiosity healed the cat</p>
 
 ###
 
@@ -51,13 +51,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matei5/Matei5/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matei5/Matei5/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Matei5/Matei5/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
