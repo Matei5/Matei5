@@ -1,10 +1,7 @@
-Hi! My name is Matei
-==============================================================================================================================
-
-Computer Science Student
+Hello, I'm Matei!
 ------------------------
 
-I am a last year student at the University of Bucharest, Faculty of Mathematics and Informatics. I've studied in Germany at the University of Tübingen thanks to an Erasmus Exchange Programme and came back with a broader view of the Industry.
+I am a last year Computer Science student at the University of Bucharest, Faculty of Mathematics and Informatics. I've studied in Germany at the University of Tübingen thanks to an Erasmus Exchange Programme and came back with a broader view of the Industry.
 
 * ✉  You can contact me at [matei.sescu16@gmail.com](mailto:matei.sescu16@gmail.com )
 
