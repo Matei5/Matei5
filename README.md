@@ -6,7 +6,7 @@
   📚 I'm a final year student at University of Bucharest, studying Informatics. <br>
   🎬 Started to code in high-school, 2019 <br>
   🧩 I'm currently learning and self-learning Embedded Systems, Robotics and Java <br>
-  🎯 Prize winner at Neckarthon 2024, participated in 3+ hackathons <br>
+  🏆 Prize winner at Neckarthon 2024, participated in 3+ hackathons <br>
   🎲 More ofthen than not, curiosity heals the cat ✨</p>
 
 ###
