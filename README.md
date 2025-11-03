@@ -1,15 +1,8 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="center"> Hi, I'm Matei 🐼 </h1>
 
 ###
 
-<p align="center">My name is Matei and I'm a final year student at University of Bucharest, from Romania.</p>
-
-###
-
-<h2 align="center">About me</h2>
-
-###
-
+<p align="center">I'm a final year student at University of Bucharest, studying Informatics.</p>
 <p align="center">✨ Creating bugs since 2019<br>📚 I'm currently learning Java, Typescript and Robotics<br>🎯 Goals: Getting a job in the industry and traveling to new countries<br>💬 Can be contacted on <a href="https://www.linkedin.com/in/se-ma/">LinkedIn</a> or on <a href="mailto:matei.sescu16@gmail.com">my mail</a><br>🎲 Fun fact: Curiosity healed the cat</p>
 
 ###
