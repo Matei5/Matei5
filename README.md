@@ -2,20 +2,20 @@
 
 ###
 
-<p align="center">I'm a final year student at University of Bucharest, studying Informatics.</p>
-<p align="center">✨ Creating bugs since 2019<br>📚 I'm currently learning Java, Typescript and Robotics<br>🎯 Goals: Getting a job in the industry and traveling to new countries<br>💬 Can be contacted on <a href="https://www.linkedin.com/in/se-ma/">LinkedIn</a> or on <a href="mailto:matei.sescu16@gmail.com">my mail</a><br>🎲 Fun fact: Curiosity healed the cat</p>
+<p align="center">
+  📚 I'm a final year student at University of Bucharest, studying Informatics. <br>
+  🎬 Started to code in high-school, 2019 <br>
+  🧩 I'm currently learning and self-learning Embedded Systems, Robotics and Java <br>
+  🎯 Prize winner at Neckarthon 2024, participated in 3+ hackathons <br>
+  🎲 More ofthen than not, curiosity heals the cat ✨</p>
 
 ###
 
-<h2 align="center">I've worked with</h2>
+<h2 align="center"> Past experience in </h2>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -26,10 +26,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" /> -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img width="12" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
@@ -46,3 +48,15 @@
 </div>
 
 ###
+
+<h2 align="center"> 🌟 Feel free to get in touch via 🌟 </h2>  
+
+<p align="center">
+<a href="mailto:matei.sescu16@gmail.com"> 
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Email&color=0078D4&logo=Microsoft+Outlook&logoColor=FFFFFF&label="</img> 
+</a>
+  
+<a href="https://www.linkedin.com/in/se-ma/"> 
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label="</img> 
+</a>
+</p>
