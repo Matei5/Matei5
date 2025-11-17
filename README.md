@@ -8,7 +8,7 @@
   🧩 I'm currently learning and self-learning Robotics and Java <br>
   ✈️ ex-Erasmus+ Exchange Student at the Tübingen University, Germany, Sep 19 2024 - Mar 28 2025 <br>
   🏆 Prize winner at Neckarthon 2024, participated in 3+ hackathons <br>
-  🎲 More ofthen than not, curiosity heals the cat ✨</p>
+  🎲 More often than not, curiosity heals the cat ✨</p>
 
 ###
 
