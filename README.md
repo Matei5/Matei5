@@ -3,11 +3,11 @@
 ###
 
 <p align="center">
-  📚 I'm a final year student at University of Bucharest, studying Informatics. <br>
+  📚 Finished my bachelor at University of Bucharest, studying Informatics. <br>
   🎬 Started to code in high-school, 2019 <br>
-  🧩 I'm currently learning and self-learning Robotics and Java <br>
+  🧩 I'm currently self-learning Robotics and Java <br>
   ✈️ ex-Erasmus+ Exchange Student at the Tübingen University, Germany, Sep 19 2024 - Mar 28 2025 <br>
-  🏆 Prize winner at Neckarthon 2024, participated in 3+ hackathons <br>
+  🏆 Prize winner at Neckarthon 2024 <br>
   🎲 More often than not, curiosity heals the cat ✨</p>
 
 ###
