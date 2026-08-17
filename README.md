@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="center"> Past experience in </h2>
+<h2 align="center"> Experience with </h2>
 
 ###
 
